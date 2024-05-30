@@ -1,5 +1,0 @@
-﻿  ExcHookDemo.cpp
-D:\coding\hook\ExcHookDemo\ExcHookDemo.cpp(65,9): warning C4566: 由通用字元名稱 '\u8FDB' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\coding\hook\ExcHookDemo\ExcHookDemo.cpp(65,9): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\coding\hook\ExcHookDemo\ExcHookDemo.cpp(86,10): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'DWORD'
-  ExcHookDemo.vcxproj -> D:\coding\hook\ExcHookDemo\Debug\ExcHookDemo.exe
